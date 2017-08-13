@@ -1,0 +1,17 @@
+# local data
+example-data/
+
+# code-python
+*.pyc
+
+# other
+Thumbs.db
+.DS_Store
+_build
+build
+dist
+*.eggs/
+*.egg-info/
+.ipynb_checkpoints/
+.cache/
+__pycache__
