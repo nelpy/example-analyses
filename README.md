@@ -10,5 +10,5 @@ Example analyses making extensive use of nelpy.
   * [**KalmanSmoothing**.ipynb](../master/KalmanSmoothing.ipynb)—generic description.
   * [**WrappedEnvironments**.ipynb](../master/WrappedEnvironments.ipynb)—generic description.
   * [**BasicReplayAnalyses**.ipynb](../master/BasicReplayAnalyses.ipynb)—generic description **need public data!!!**.
-  * [Advanced][**ProbabilityDistributions**.ipynb](../master/ProbabilityDistributions.ipynb)—generic description.
+  * [Advanced] [**ProbabilityDistributions**.ipynb](../master/ProbabilityDistributions.ipynb)—generic description.
   * more coming soon!
