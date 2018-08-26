@@ -6,7 +6,12 @@ Example analyses making extensive use of nelpy.
   *  [**WMazeDemo**.ipynb](../master/WMazeDemo.ipynb)—using position and spike data (CA1) to estimate 2D spatial tuning curves from two 15 minute w-maze sessions.
   *  [**DPGMMSpikeSort**.ipynb](../master/DPGMMSpikeSort.ipynb)—using a Dirichlet process Gaussian mixture model (DPGMM) to automatically spike sort some data from a single tetrode.
 
-## Coming soon!
+## Coming very soon!
+  * [**RippleDetection**.ipynb](../master/RippleDetection.ipynb)—sharp wave ripple (SWR) detection from local field potential (LFP) recordings.
+  * [**PBEDetection**.ipynb](../master/PBEDetection.ipynb)—population burst event (PBE) detection from hippocampal multiunit activity.
+  * [**WrappedEnvironments**.ipynb](../master/WrappedEnvironments.ipynb)—working with ring-like environments, such as running wheels, treadmills, or circular tracks.
+
+## Coming somewhat soon!
   * [**BayesianDecoding**.ipynb](../master/BayesianDecoding.ipynb)—simple 1D and 2D Bayesian decoding of position from hippocampal place cells.
   * [**FilteringAndSpectralAnalyses**.ipynb](../master/FilteringAndSpectralAnalyses.ipynb)—basic spectral analyses and filtering to remove 60 Hz noise, or to identify sharp wave ripples.
   * [**HiddenMarkovModels**.ipynb](../master/HiddenMarkovModels.ipynb)—basic hidden Markov model analyses of neural data, including model training, evaluation, and decoding.
