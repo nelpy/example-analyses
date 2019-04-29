@@ -7,7 +7,7 @@ Example analyses making extensive use of nelpy and/or ghost.
   *  [**DPGMMSpikeSort**.ipynb](../master/DPGMMSpikeSort.ipynb)—using a Dirichlet process Gaussian mixture model (DPGMM) to automatically spike sort some data from a single tetrode.
   
 ## Spectral analyses with ghost:
-  * [**BackyardBrainsEEG**.ipynb](../master/eeg.ipynb)—analyze the spectral content from an EEG recorded from the human brain (see [BackyardBrains/eeg](https://backyardbrains.com/experiments/eeg))
+  * [**BackyardBrainsEEG**.ipynb](../master/BackyardBrainsEEG.ipynb)—analyze the spectral content from an EEG recorded from the human brain (see [BackyardBrains/eeg](https://backyardbrains.com/experiments/eeg))
 
 ## Coming very soon!
   * [**RippleDetection**.ipynb](../master/RippleDetection.ipynb)—sharp wave ripple (SWR) detection from local field potential (LFP) recordings.
