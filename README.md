@@ -1,10 +1,13 @@
 # Example-analyses
-Example analyses making extensive use of nelpy.
+Example analyses making extensive use of nelpy and/or ghost.
 
 ## Examples include:
   * [**LinearTrackDemo**.ipynb](../master/LinearTrackDemo.ipynb)—using position and spike data (CA1) to estimate spatial tuning curves and identify putative place cells from a 15 minute linear track run session.
   *  [**WMazeDemo**.ipynb](../master/WMazeDemo.ipynb)—using position and spike data (CA1) to estimate 2D spatial tuning curves from two 15 minute w-maze sessions.
   *  [**DPGMMSpikeSort**.ipynb](../master/DPGMMSpikeSort.ipynb)—using a Dirichlet process Gaussian mixture model (DPGMM) to automatically spike sort some data from a single tetrode.
+  
+## Spectral analyses with ghost:
+  * [**EEGBackyardBrains**.ipynb](../master/eeg.ipynb)—analyze the spectral content from an EEG recorded from the human brain (see [BackyardBrains/eeg](https://backyardbrains.com/experiments/eeg))
 
 ## Coming very soon!
   * [**RippleDetection**.ipynb](../master/RippleDetection.ipynb)—sharp wave ripple (SWR) detection from local field potential (LFP) recordings.
